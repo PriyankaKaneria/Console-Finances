@@ -9,4 +9,4 @@ https://priyankakaneria.github.io/Console-Finances/
 https://github.com/PriyankaKaneria
 
 ## screenshot
-![alt text](https://github.com/PriyankaKaneria/Console-Finances/blob/main/images/Screenshot.png)
+![alt text](https://github.com/PriyankaKaneria/Console-Finances/blob/main/Screenshot.png)
